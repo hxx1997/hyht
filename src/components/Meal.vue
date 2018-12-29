@@ -12,8 +12,6 @@
 
 
 
-
-
      </div>
 </template>
 
@@ -30,16 +28,18 @@
 <style scoped lang="less">
 
   #Meal-Box{
-    width: 1160px;
-    height: 600px;
-    margin-top: 5px;
+    width: 1180px;
+    height: 656px;
+    margin-top: 8px;
+    margin-left: 10px;
     position:absolute;
     left: 300px;
     top:62px;
-    background: white;
+    background: #f3f3f3;
     border-bottom:1px solid #5b5b5b;
     /*border: 1px solid #a2a2a2;*/
   }
+
 
   .top-Box{
     width: 1160px;

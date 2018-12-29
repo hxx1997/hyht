@@ -1,10 +1,10 @@
 <template>
 
-  <!--<div id="right">-->
+  <div id="right">
      <!--<div id="Box">-->
-        <!--<Meal></Meal>-->
+        <!--&lt;!&ndash;<Meal></Meal>&ndash;&gt;-->
      <!--</div>-->
-  <!--</div>-->
+  </div>
 
 </template>
 
@@ -22,7 +22,7 @@
 
 <style scoped lang="less">
   #right{
-    width: 1220px;
+    width: 1200px;
     height: 672px;
     margin-top: 8px;
     margin-left:18px ;
